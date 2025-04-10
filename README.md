@@ -48,5 +48,6 @@ Blinks LED when button is pressed.
 
 - [04 FPGA VHDL ALTERA Quartus 15 button controls LED](https://www.youtube.com/watch?v=zUWv05mBgjk)
 
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/button.vhdl)
 
 [Quartus]: https://www.intel.com/content/www/us/en/programmable/downloads/download-center.html
